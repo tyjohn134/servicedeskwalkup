@@ -1,6 +1,6 @@
 # Service Desk Walk Up Kiosk
 
-<img src="https://tylerjdev.sfo2.digitaloceanspaces.com/snwalkup.png">
+<img src="https://tylerjdev.sfo2.cdn.digitaloceanspaces.com/snwalkup.png">
 
 ## Project setup
 ```
