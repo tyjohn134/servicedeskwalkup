@@ -17,14 +17,21 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
+## API
+### Set environment variables
+Powershell
 ```
-npm run test
+$env:SERVICENOW_USERNAME=""
+$env:SERVICENOW_PASSWORD=""
+$env:FLASK_APP="main"
 ```
-
-### Lints and fixes files
+### Activate venv
 ```
-npm run lint
+.\venv\bin\Activate
+```
+### Run API
+```
+python -m flask run
 ```
 
 ### Customize configuration
