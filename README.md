@@ -31,6 +31,10 @@ $env:FLASK_APP="main"
 ```
 .\venv\bin\Activate
 ```
+### Install python modules
+```
+pip install -r requirements.txt
+```
 ### Run API
 ```
 python -m flask run
