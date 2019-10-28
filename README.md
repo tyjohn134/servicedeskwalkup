@@ -1,5 +1,7 @@
 # Service Desk Walk Up Kiosk
 
+This project allows an end user to walk up to a kiosk and scan their badge (to get their name and email) and then fill out a short questionaire which will then create a ticket for the incident and assign it to the agent/tech they have selected. 
+
 ### NOTE: Requires a ServiceNow production environment
 
 <img src="https://tylerjdev.sfo2.cdn.digitaloceanspaces.com/snwalkup.png">
