@@ -1,5 +1,7 @@
 # Service Desk Walk Up Kiosk
 
+### NOTE: Requires a ServiceNow production environment
+
 <img src="https://tylerjdev.sfo2.cdn.digitaloceanspaces.com/snwalkup.png">
 
 ## Project setup
